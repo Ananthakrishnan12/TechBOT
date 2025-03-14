@@ -72,6 +72,6 @@ The FastAPI server will start at **http://127.0.0.1:8000/**
 ---
 
 
-DEMO : ![Chatbot Demo](https://your-gif-url.com/demo.gif)
+DEMO : ![Chatbot Demo](https://github.com/Ananthakrishnan12/TechBOT/blob/main/Techbot.gif)
 
 
